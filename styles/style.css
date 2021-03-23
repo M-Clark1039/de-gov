@@ -1,3 +1,33 @@
+html {
+  background-color: black;
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: rgb(0, 75, 145);
+}
+
 body {
-  background-color: cornflowerblue;
+  width: 600px;
+  margin: 0 auto;
+  background-color: #313131;
+  padding: 0px 20px 20px 20px;
+  border: 5px solid rgb(0, 75, 145);
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: color rgb(0, 75, 145);
+  text-shadow: 3px 3px 1px black;
+  font-size: 60px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
 }
